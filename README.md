@@ -1,7 +1,7 @@
 # Aerosol-Nanoparticle-Course
 Master level course on aerosols and particles at the University of Bremen
 
-The course is based on the book by Sheldon Friedlander
+The course is based on the books 
 
 Friedlander, Sheldon Kay. Smoke, dust, and haze. Oxford university press, 2000.
 
@@ -12,8 +12,19 @@ and on
 L. Mädler and S. K. Friedlander, Transport of nanoparticles: overview and recent advances, Aerosol and Air Quality Research 2007 Vol. 7 Issue 3 Pages 304-342
 http://aaqr.org/VOL7_No3_September2007/3_AAQR-07-03-IR-0017_304-342.pdf
 
+## Design prolems in Aerosol Technology
+
+There are two example desing problems: Diffusional losses in a laminar pipe flow and change of a number distribution due to coagulation. 
+
+Both problems are soved numerically and validated with analytical solutions. 
+
+Finally there is a new problem statement for curent students of the course. 
 
 # Notebooks
+
+[Diffusion in a pipe 1](Coagulation_lm1.ipynb)
+
+[Diffusion in a pipe 2](Coagulation_lm1.ipynb)
 
 [Coagulation 1](Coagulation_lm1.ipynb)
 
