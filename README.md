@@ -1,5 +1,5 @@
 # Aerosol-Nanoparticle-Course
-Master level course on aerosols and particles at the University of Bremen
+Master level course on aerosols and particles at the University of Bremen.
 
 The course is based on the books:
 
