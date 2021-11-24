@@ -5,7 +5,9 @@ The course is based on the book by Sheldon Friedlander
 
 Friedlander, Sheldon Kay. Smoke, dust, and haze. Oxford university press, 2000.
 Friedlander, Sheldon Kay. "Smoke, dust and haze: Fundamentals of aerosol behavior." New York (1977).
+
 and on
+
 L. Mädler and S. K. Friedlander, Transport of nanoparticles: overview and recent advances, Aerosol and Air Quality Research 2007 Vol. 7 Issue 3 Pages 304-342
 http://aaqr.org/VOL7_No3_September2007/3_AAQR-07-03-IR-0017_304-342.pdf
 
