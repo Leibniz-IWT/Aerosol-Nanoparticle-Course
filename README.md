@@ -22,9 +22,9 @@ Finally there is a new problem statement for curent students of the course.
 
 # Notebooks
 
-[Diffusion in a pipe 1](Diffusion_tube_backward_euler.ipynb)
+[Diffusion in a pipe - backward Euler](Diffusion_tube_backward_euler.ipynb)
 
-[Diffusion in a pipe 2](Diffusion_tube_backward_euler.ipynb)
+[Diffusion in a pipe - interartion](Diffusion_tube_backward_euler.ipynb)
 
 [Coagulation 1](Coagulation_lm1.ipynb)
 
