@@ -4,6 +4,7 @@ Master level course on aerosols and particles at the University of Bremen
 The course is based on the book by Sheldon Friedlander
 
 Friedlander, Sheldon Kay. Smoke, dust, and haze. Oxford university press, 2000.
+
 Friedlander, Sheldon Kay. "Smoke, dust and haze: Fundamentals of aerosol behavior." New York (1977).
 
 and on
