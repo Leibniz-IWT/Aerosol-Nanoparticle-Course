@@ -1,24 +1,23 @@
 # Aerosol-Nanoparticle-Course
-Master level course on aerosols and particles at the University of Bremen
+Master level course on aerosols and particles at the University of Bremen.
 
-The course is based on the books 
+The course is based on the books:
 
-Friedlander, Sheldon Kay. Smoke, dust, and haze. Oxford university press, 2000.
-
-Friedlander, Sheldon Kay. "Smoke, dust and haze: Fundamentals of aerosol behavior." New York (1977).
+- Friedlander, Sheldon Kay. Smoke, dust, and haze. Oxford university press, 2000.
+- Friedlander, Sheldon Kay. "Smoke, dust and haze: Fundamentals of aerosol behavior." New York (1977).
 
 and on
 
-L. Mädler and S. K. Friedlander, Transport of nanoparticles: overview and recent advances, Aerosol and Air Quality Research 2007 Vol. 7 Issue 3 Pages 304-342
+- L. Mädler and S. K. Friedlander, Transport of nanoparticles: overview and recent advances, Aerosol and Air Quality Research 2007 Vol. 7 Issue 3 Pages 304-342
 http://aaqr.org/VOL7_No3_September2007/3_AAQR-07-03-IR-0017_304-342.pdf
 
 ## Design prolems in Aerosol Technology
 
-There are two example desing problems: Diffusional losses in a laminar pipe flow and change of a number distribution due to coagulation. 
+There are two example desing problems: 
+- Diffusional losses in a laminar pipe flow. 
+- Change of a number distribution due to coagulation. 
 
-Both problems are soved numerically and validated with analytical solutions. 
-
-Finally there is a new problem statement for curent students of the course. 
+Both problems are soved numerically and validated with analytical solutions. Finally there is a [new problem statement](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/Coagulation%203%20(Project).ipynb) for curent students of the course. 
 
 # Notebooks
 
@@ -28,7 +27,9 @@ Finally there is a new problem statement for curent students of the course.
 
 [Coagulation 1](Coagulation_lm1.ipynb)
 
-[Coagulation Problem](Coagulation_lm1.ipynb)
+[Coagulation problem](Coagulation_lm1.ipynb)
+
+[Coagulation project: CSTR reactor design](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/Coagulation%203%20(Project).ipynb)
 
 #### Coagulation simulation:
 
