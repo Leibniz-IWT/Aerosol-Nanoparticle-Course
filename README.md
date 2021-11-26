@@ -27,7 +27,7 @@ Both problems are soved numerically and validated with analytical solutions. Fin
 
 [Coagulation 1](Coagulation_lm1.ipynb)
 
-[Coagulation problem](Coagulation_lm1.ipynb)
+[Coagulation 2 - parameter investigations](Coagulation 2.ipynb)
 
 [Coagulation project: CSTR reactor design](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/Coagulation%203%20(Project).ipynb)
 
