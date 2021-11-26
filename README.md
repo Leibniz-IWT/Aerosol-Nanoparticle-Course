@@ -23,7 +23,7 @@ Both problems are soved numerically and validated with analytical solutions. Fin
 
 [Diffusion in a pipe - backward Euler](Diffusion_tube_backward_euler.ipynb)
 
-[Diffusion in a pipe - interartion](Diffusion_tube_backward_euler.ipynb)
+[Diffusion in a pipe - iterative](Diffusion_tube_backward_euler.ipynb)
 
 [Coagulation 1](Coagulation_lm1.ipynb)
 
