@@ -29,7 +29,7 @@ Both problems are soved numerically and validated with analytical solutions. Fin
 
 [Coagulation 2 - parameter investigations](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/Coagulation%202.ipynb)
 
-[Coagulation project: CSTR reactor design](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/Coagulation%203%20(Project).ipynb)
+[Coagulation project: PFR reactor design](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/Coagulation%203%20(Project).ipynb)
 
 #### Coagulation simulation:
 
