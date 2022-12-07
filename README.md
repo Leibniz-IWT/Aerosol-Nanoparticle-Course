@@ -21,6 +21,8 @@ Both problems are soved numerically and validated with analytical solutions. Fin
 
 # Notebooks
 
+[Introduction to DAE simulation in Python](https://github.com/Leibniz-IWT/Aerosol-Nanoparticle-Course/blob/main/DAE%20simulation%20python.ipynb)
+
 [Diffusion in a pipe - backward Euler](Diffusion_tube_backward_euler.ipynb)
 
 [Diffusion in a pipe - iterative](Diffusion_tube_upwind_central.ipynb)
